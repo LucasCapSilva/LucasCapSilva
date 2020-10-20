@@ -4,6 +4,8 @@
 
 # Ola eu sou o Lucas 👋
 
+Instrutor e desenvolvedor Full Stack Angular Spring
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lucas-capelotto-da-silva-43b26216a/)
 
 
