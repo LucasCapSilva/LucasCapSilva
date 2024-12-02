@@ -5,6 +5,9 @@
 # Hello I'm Lucas 👋
 
 Instructor and Java developer Spring React, C# asp.net Angular, node.js react, python flask React and react native.
+<p>
+  <img src="https://i.imgur.com/eDmSFHT.png">
+</p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lucas-capelotto-da-silva-43b26216a/)
 
