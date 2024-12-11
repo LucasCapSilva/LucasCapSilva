@@ -34,12 +34,12 @@ In the overview below you will find my most recent work experience:
 
 **Software Engineer, curriculum designer and instructor** \
 [**Generation Brasil**](https://brazil.generation.org/) • Full-time \
-Languages ​​& Technologies: `Java`, `Spring`, `C#`, `JavaScript`, `python`, `spring`, `react`\
+Languages ​​& Technologies: `Java`, `Spring`, `C#`, `Asp.net#`, `JavaScript`,`typescript`, `python`,`flask`, `Mysql`, `react`, `Angular`\
 <br/>
 
 **Software Engineer** \
 [**ByteAnalysis**]() • Contract \
-Languages ​​& Technologies: `Java`, `Spring`, `C#`, `Asp.net#`, `AWS`, `SQL server`,  `JavaScript`, `Angular`, `spring`, `react`\
+Languages ​​& Technologies: `Java`, `Spring`, `C#`, `Asp.net#`, `AWS`, `SQL server`,  `JavaScript`,`typescript`, `Angular`, `react`\
 Featured project: [Ifacilita]()
 <br/>
 
