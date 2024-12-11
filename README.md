@@ -26,6 +26,24 @@ Instructor and Java developer Spring React, C# asp.net Angular, node.js react, p
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 </p>
 
+### Work experience
+
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="90px" width="100px" alt="Rocketseat" src="https://brazil.generation.org/wp-content/uploads/2024/10/Generation_BRAZIL_logo_NEW-BLUE.png"/>](https://brazil.generation.org/)
+
+**Software Engineer, curriculum designer and instructor** \
+[**Generation Brasil**](https://brazil.generation.org/) • Full-time \
+Languages ​​& Technologies: `Java`, `Spring`, `C#`, `JavaScript`, `python`, `spring`, `react`\
+<br/>
+
+**Software Engineer** \
+[**ByteAnalysis**]() • Contract \
+Languages ​​& Technologies: `Java`, `Spring`, `C#`, `Asp.net#`, `AWS`, `SQL server`,  `JavaScript`, `Angular`, `spring`, `react`\
+Featured project: [Ifacilita]()
+<br/>
+
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=LucasCapSilva&show_icons=true&theme=radical&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCapSilva&hide_langs_below=.25&theme=radical">
