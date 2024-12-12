@@ -4,6 +4,8 @@
 
 # 👋Olá, sou o Lucas! Bem-vindo ao meu perfil no GitHub 👋
 
+<span style="color:red">Este texto estará em vermelho</span>
+
 Sou um **Desenvolvedor Full Stack** com ampla experiência em tecnologias modernas e frameworks robustos.
 
 ## 🚀 Áreas de Especialização:
