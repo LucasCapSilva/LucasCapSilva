@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.shopify.com/s/files/1/2262/3723/files/Java-Love-Bellevue-Coffee-Shop-Montclair-NJ-Location_1024x1024.png?v=1535402660" width="200"/>
+  <img src="https://cdn.shopify.com/s/files/1/2262/3723/files/Java-Love-Bellevue-Coffee-Shop-Montclair-NJ-Location_1024x1024.png?v=1535402660" width="1000"/>
 </p>
 
 # 👋 Olá, eu sou o Lucas Capelotto!
